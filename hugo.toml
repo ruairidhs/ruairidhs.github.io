@@ -1,0 +1,48 @@
+baseURL = 'https://ruairidhsouth.com/'
+languageCode = 'en-us'
+title = 'Ruairidh South'
+theme = 'PaperMod'
+
+
+[params]
+
+defaultTheme = "light"
+disableThemeToggle = true
+
+[params.profileMode]
+enabled = true
+subtitle = "I am an economics PhD student at Princeton University. I study macroeconomics with a focus on housing. My first name is pronounced like 'brewery' without the 'b'. Contact me at rsouth@princeton.edu."
+imageUrl = "/me2.png"
+imageHeight = 160
+imageWidth = 160
+
+[[params.profileMode.buttons]]
+name = "Papers"
+url = "/papers/"
+
+[[params.profileMode.buttons]]
+name = "CV"
+url = "/cv.pdf"
+
+[[params.profileMode.buttons]]
+name = "Github"
+url = "https://github.com/ruairidhs"
+
+[menu]
+
+[[menu.main]]
+identifier = "papers"
+name = "Papers"
+url = "/papers/"
+weight = 10
+
+[[menu.main]]
+identifier = "CV"
+name = "CV"
+url = "/cv.pdf"
+weight = 20
+
+[[menu.main]]
+name = "Github"
+url = "https://github.com/ruairidhs"
+weight = 30
