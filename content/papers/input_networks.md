@@ -1,7 +1,7 @@
 +++
 title = 'The Network Origins of Firm Dynamics'
 draft = false
-author: ["Ruairidh South", "Johannes Boehm", "Ezra Oberfield", "Mazhar Wazeem"]
+author = ["Ruairidh South", "Johannes Boehm", "Ezra Oberfield", "Mazhar Wazeem"]
 +++
 
 # Overview
