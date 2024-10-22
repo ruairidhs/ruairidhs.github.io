@@ -11,7 +11,7 @@ disableThemeToggle = true
 
 [params.profileMode]
 enabled = true
-subtitle = "I am an economics PhD student at Princeton University. I study macroeconomics with a focus on housing. My first name is pronounced like 'brewery' without the 'b'. Contact me at rsouth@princeton.edu."
+subtitle = "I am an economics PhD student at Princeton University. I study macroeconomics with a focus on housing. My first name is pronounced like 'brewery' without the 'b'.\n Contact me at rsouth@princeton.edu."
 imageUrl = "/me2.png"
 imageHeight = 160
 imageWidth = 160
