@@ -11,7 +11,7 @@ disableThemeToggle = true
 
 [params.profileMode]
 enabled = true
-subtitle = "I am an economics PhD student at Princeton University. I study questions in quantitative macroeconomics by combining data analysis and numerical simulations. I am currently looking for industry roles in quantitative research or data science. I plan to graduate in Spring 2025. My first name is pronounced like 'brewery' without the 'b'.\n Contact me at rsouth@princeton.edu."
+subtitle = "I am an economics PhD student at Princeton University. I study questions in quantitative macroeconomics by combining data analysis and numerical simulations. I am currently looking for industry roles in quantitative research. I plan to graduate in Spring 2025. My first name is pronounced like 'brewery' without the 'b'.\n Contact me at rsouth@princeton.edu."
 imageUrl = "/me2.png"
 imageHeight = 160
 imageWidth = 160
