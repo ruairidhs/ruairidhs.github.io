@@ -30,7 +30,7 @@ url = "https://github.com/ruairidhs"
 
 [[params.profileMode.buttons]]
 name = "Email"
-url = "mailto://rsouth@princeton.com"
+url = "mailto:rsouth@princeton.com"
 
 [menu]
 
